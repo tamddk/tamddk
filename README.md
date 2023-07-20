@@ -8,6 +8,7 @@
 [<img align="left" alt="CSS3" width="26px" src="./img/css3.svg" style="padding-right:10px;" />](https://github.com/tamddk)
 [<img align="left" alt="Sass" width="26px" src="./img/sass.svg" style="padding-right:10px;" />](https://github.com/tamddk)
 [<img align="left" alt="JavaScript" width="26px" src="./img/javascript.svg" style="padding-right:10px;" />](https://github.com/tamddk)
+[<img align="left" alt="jQuery" width="26px" src="./img/jquery.svg" style="padding-right:10px;" />](https://github.com/tamddk)
 [<img align="left" alt="Laravel" width="26px" src="./img/laravel.svg" style="padding-right:10px;" />](https://github.com/tamddk)
 [<img align="left" alt="CodeIgniter" width="26px" src="./img/codeigniter.svg" style="padding-right:10px;" />](https://github.com/tamddk)
 [<img align="left" alt="React" width="26px" src="./img/react.svg" style="padding-right:10px;" />](https://github.com/tamddk)
