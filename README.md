@@ -18,7 +18,7 @@
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" style="padding-right:10px;" />](https://github.com/tamddk#gh-dark-mode-only)
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" style="padding-right:10px;" />](https://github.com/tamddk#gh-light-mode-only)
 
-### additional support
+### Additional Support
 
 [<img align="left" alt="Adobe Photoshop" width="26px" src="./img/photoshop.svg" style="padding-right:10px;" />](https://github.com/tamddk)
 [<img align="left" alt="Canva" width="26px" src="./img/canva.svg" style="padding-right:10px;" />](https://github.com/tamddk)
