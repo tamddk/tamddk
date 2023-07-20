@@ -38,3 +38,5 @@
 [<img align="left" alt="LinkedIn" width="26px" src="./img/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/sodikun)
 [<img align="left" alt="Instagram" width="26px" src="./img/instagram.svg" style="padding-right:10px;" />](https://www.instagram.com/tamddk)
 [<img align="left" alt="Twitter" width="26px" src="./img/twitter.svg" style="padding-right:10px;" />](https://www.twitter.com/tbsodik)
+[<img align="left" alt="Steam" width="26px" src="./img/steam.svg" style="padding-right:10px;" />](https://steamcommunity.com/profiles/76561198328953437/)
+[<img align="left" alt="Discord" width="26px" src="./img/discord.svg" style="padding-right:10px;" />](https://discord.com/users/825711269490327562)
