@@ -32,3 +32,9 @@
 <br />
 
 ---
+
+### Connect with me:
+
+[<img align="left" alt="LinkedIn" width="26px" src="./img/linkedin.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/sodikun)
+[<img align="left" alt="Instagram" width="26px" src="./img/instagram.svg" style="padding-right:10px;" />](https://www.instagram.com/tamddk)
+[<img align="left" alt="Twitter" width="26px" src="./img/twitter.svg" style="padding-right:10px;" />](https://www.twitter.com/tbsodik)
