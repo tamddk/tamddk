@@ -23,7 +23,8 @@
 [<img align="left" alt="Adobe Photoshop" width="26px" src="./img/photoshop.svg" style="padding-right:10px;" />](https://github.com/tamddk)
 [<img align="left" alt="Canva" width="26px" src="./img/canva.svg" style="padding-right:10px;" />](https://github.com/tamddk)
 [<img align="left" alt="Filmora" width="26px" src="./img/filmora.svg" style="padding-right:10px;" />](https://github.com/tamddk)
-[<img align="left" alt="CapCut" width="26px" src="./img/capcut.svg" style="padding-right:10px;" />](https://github.com/tamddk)
+[<img align="left" alt="CapCut" width="26px" src="./img/capcut-dark.svg" style="padding-right:10px;" />](https://github.com/tamddk#gh-dark-mode-only)
+[<img align="left" alt="CapCut" width="26px" src="./img/capcut-light.svg" style="padding-right:10px;" />](https://github.com/tamddk#gh-light-mode-only)
 
 <br />
 
