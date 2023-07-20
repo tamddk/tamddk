@@ -1,5 +1,12 @@
 ### Hi there, I'm Sodik 👋
 
+- 🔭 I’m currently working as freelancers
+- 🌱 I’m currently learning everything & anything
+- 👯 I’m looking to collaborate with other developers
+- 🤔 I’m looking for help with help further development
+- ⚡ Fun fact: i love swimming, automotive motorcycle/automobile & whatever pleases me.
+- 🍻 cheeeerrrssss
+
 ### Languages and Tools:
 
 [<img align="left" alt="XAMPP" width="26px" src="./img/xampp.svg" style="padding-right:10px;" />](https://github.com/tamddk)
