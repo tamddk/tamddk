@@ -1,4 +1,4 @@
-### [<img align="left" alt="Putnam" width="26px" src="./img/putnam.png" style="padding-right:10px;" />](https://github.com/tamddk) Hi there, I'm Sodik 👋
+### [<img align="left" alt="Putnam" width="26px" src="./img/putnam.PNG" style="padding-right:10px;" />](https://github.com/tamddk) Hi there, I'm Sodik 👋
 
 - 🔭 I’m currently working as freelancers
 - 🌱 I’m currently learning everything & anything
