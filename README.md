@@ -53,3 +53,14 @@
 [<img align="left" alt="Threads" width="26px" src="./img/threads-light.svg" style="padding-right:10px;" />](https://www.threads.net/@tamddk#gh-light-mode-only)
 [<img align="left" alt="Steam" width="26px" src="./img/steam.svg" style="padding-right:10px;" />](https://steamcommunity.com/profiles/76561198328953437/)
 [<img align="left" alt="Discord" width="26px" src="./img/discord.svg" style="padding-right:10px;" />](https://discord.com/users/825711269490327562)
+
+<br />
+
+---
+
+<details>
+  <summary>[<img align="left" alt="Github" width="26px" src="./img/github.svg" style="padding-right:10px;" />](https://github.com/tamddk) GitHub Stats</summary>
+
+  <img align="left" alt="tamddk GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tamddk&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
