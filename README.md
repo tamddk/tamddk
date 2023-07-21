@@ -59,7 +59,7 @@
 ---
 
 <details>
-  <summary>[<img align="left" alt="Github" width="26px" src="./img/github.svg" style="padding-right:10px;" />](https://github.com/tamddk) GitHub Stats</summary>
+  <summary><img align="left" alt="Github" width="26px" src="./img/github.svg" style="padding-right:10px;" /> GitHub Stats</summary>
 
   <img align="left" alt="tamddk GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tamddk&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
