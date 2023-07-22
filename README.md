@@ -73,11 +73,11 @@
 
 [<img align="left" alt="PayPal" width="130px" src="./img/paypal.png" style="padding-right:10px;" />](https://www.paypal.com/paypalme/tamddk)
 
-<br />
-<br />
-<br />
-
 ---
+
+<br />
+<br />
+<br />
 
 [<img align="left" alt="Buy Me A Coffee" width="140px" src="./img/buymeacoffee-dark.png" />](https://www.buymeacoffee.com/tamddk#gh-dark-mode-only)
 [<img align="left" alt="Buy Me A Coffee" width="140px" src="./img/buymeacoffee-light.png" />](https://www.buymeacoffee.com/tamddk#gh-light-mode-only)
