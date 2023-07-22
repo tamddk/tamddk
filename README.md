@@ -57,14 +57,6 @@
 <br />
 <br />
 
-[<img align="left" alt="PayPal" width="26px" src="./img/paypal.png" style="padding-right:10px;" />]()
-[<img align="left" alt="Buy Me A Coffee" width="26px" src="./img/buymeacoffee-dark.png" style="padding-right:10px;" />](https://www.buymeacoffee.com/tamddk#gh-dark-mode-only)
-[<img align="left" alt="Buy Me A Coffee" width="26px" src="./img/buymeacoffee-light.png" style="padding-right:10px;" />](https://www.buymeacoffee.com/tamddk#gh-light-mode-only)
-[<img align="left" alt="Ko-Fi" width="26px" src="./img/ko-fi-dark.png" style="padding-right:10px;" />](https://ko-fi.com/sodik/?hidefeed=true&widget=true&embed=true&preview=true#gh-dark-mode-only)
-[<img align="left" alt="Ko-Fi" width="26px" src="./img/ko-fi-light.png" style="padding-right:10px;" />](https://ko-fi.com/sodik/?hidefeed=true&widget=true&embed=true&preview=true#gh-light-mode-only)
-
-<br />
-
 ---
 
 <details>
@@ -73,3 +65,9 @@
   <img align="left" alt="tamddk GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tamddk&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
+
+[<img align="left" alt="PayPal" width="130px" src="./img/paypal.png" style="padding-right:10px;" />](https://www.paypal.com/paypalme/tamddk)
+[<img align="left" alt="Buy Me A Coffee" width="140px" src="./img/buymeacoffee-dark.png" style="padding-right:10px;" />](https://www.buymeacoffee.com/tamddk#gh-dark-mode-only)
+[<img align="left" alt="Buy Me A Coffee" width="140px" src="./img/buymeacoffee-light.png" style="padding-right:10px;" />](https://www.buymeacoffee.com/tamddk#gh-light-mode-only)
+[<img align="left" alt="Ko-Fi" width="250px" src="./img/ko-fi-dark.png" style="padding-right:10px;" />](https://ko-fi.com/sodik/?hidefeed=true&widget=true&embed=true&preview=true#gh-dark-mode-only)
+[<img align="left" alt="Ko-Fi" width="250px" src="./img/ko-fi-light.png" style="padding-right:10px;" />](https://ko-fi.com/sodik/?hidefeed=true&widget=true&embed=true&preview=true#gh-light-mode-only)
