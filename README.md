@@ -5,7 +5,7 @@
 - 📲 I’m looking to collaborate with other developers
 - 🤔 I’m looking for help with help further development
 - ⚡ Fun fact: i love swimming, automotive motorcycle/automobile & whatever pleases me
-- 🍻 cheeeerrrsssss
+- 🍻 cheeeerrrssss
 
 ### Languages and Tools:
 
