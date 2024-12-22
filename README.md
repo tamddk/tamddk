@@ -47,7 +47,7 @@
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="26px" src="./img/linkedin.svg" />](https://www.linkedin.com/in/sodikun)
-[<img align="left" alt="Instagram" width="26px" src="./img/instagram.svg" />](https://www.instagram.com/tamddk)
+[<img align="left" alt="Instagram" width="26px" src="./img/instagram.svg" />](https://www.instagram.com/tbhmdsdk)
 [<img align="left" alt="Twitter" width="26px" src="./img/twitter.svg" />](https://www.twitter.com/tbsodik)
 [<img align="left" alt="Threads" width="26px" src="./img/threads-dark.svg" />](https://www.threads.net/@tamddk#gh-dark-mode-only)
 [<img align="left" alt="Threads" width="26px" src="./img/threads-light.svg" />](https://www.threads.net/@tamddk#gh-light-mode-only)
